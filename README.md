@@ -55,7 +55,7 @@ Syndorm wyznaczany jest za pomocą nasyępującego algorytmu:
 
 ## Algorytm Dahbury i Massona
 
-### Draf 2-diagnozowalny
+### Graf 2-diagnozowalny
 ![image](https://user-images.githubusercontent.com/71324202/232430236-1e5e849e-5fb8-49cf-8a77-12067b5e3ea4.png)
 
 ### Graf testów z syndromem
