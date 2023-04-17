@@ -1,5 +1,4 @@
-# Implementacja-algorytmu-Dahbury-i-Massona-identyfikacji-zbioru-niezdatnych-w-z-ow-sieci-procesorow
-Implementacja algorytmu Dahbury i Massona identyfikacji zbioru niezdatnych węzłów sieci procesorów w systemie t-diagnozowalnym.
+# Implementacja algorytmu Dahbury i Massona identyfikacji zbioru niezdatnych węzłów sieci procesorów w systemie t-diagnozowalnym. 
 
 Notatnik Colaboratory: https://colab.research.google.com/drive/1upOk8wsv6WE-Tl7jMtjc4H5nksdMLB0s?usp=sharing
 
